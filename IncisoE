@@ -1,0 +1,4 @@
+# Herramientas como Semgrep o fortify nos van ayudar para realizar el SAST para buscar vulnerabilidades en el código ante SQLi, XSS.
+# Va a ocurrir después del escaneo de secretos y antes del build y nos permiten aumentar una capa de seguridad extra en el código.
+# La intención es detectar vulnerabilidades lo antes posible antes de pasar a producción para que en caso de ser necesario generar un parche de seguridad, sea lo
+# menos costoso y tardado para el equipo de desarrollo y para producción.
